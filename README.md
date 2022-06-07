@@ -1,4 +1,4 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
 # JAVASCRIPT FOUNDATIONS
 
@@ -6,31 +6,34 @@
 
 Learn the fundamentals of programming with JavaScript and get started on the road to its mastery.
 
-**SKILLS COVERED**
+**Taught by Keith Peters of Notarize**
+
+### SKILLS COVERED
 
 - JavaScript
 - Programming basics
 - The interaction between JavaScript and HTML
-- And more…
+- And more...
 
-**THIS COURSE IS FOR**
+### THIS COURSE IS FOR
 
 - Designers with coding chops
 - Front-End Developers
 - jQuery Developers
 
+### [ENROLL NOW!](https://thegymnasium.com/courses/GYM/104/0/about)
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/104/0/about)
+
+### Preview
+[![Poster frame for course preview video](http://img.youtube.com/vi/ZUQG5_FU3Zw/0.jpg)](http://www.youtube.com/watch?v=ZUQG5_FU3Zw "Course Preview")
 
 ---
 
 ## About Gymnasium
 
-
 ### Real World Skills
 
 Gymnasium offers free online courses designed to teach creative professionals in-demand skills. We know these skills are in demand because our clients tell us what they are looking for, but can't find.
-
 
 ### Expert Instruction
 
